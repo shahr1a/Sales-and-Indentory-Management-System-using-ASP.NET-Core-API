@@ -1,0 +1,42 @@
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\ref\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\ref\DataAccessLayer.dll
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+E:\DEV\.NET\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\ref\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\ref\BusinessLogicLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\ref\BusinessLogicLayer.dll
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+E:\DEV\.NET\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\ref\BusinessLogicLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+D:\Developer\ASP DOT NET CORE\Web API\Project\Backend\SalesAndInventory\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb

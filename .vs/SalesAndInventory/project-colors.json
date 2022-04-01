@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1e91ba7-8888-49d3-8032-d3875f123752": {
+      "ProjectGuid": "c1e91ba7-8888-49d3-8032-d3875f123752",
+      "DisplayName": "SalesAndInventory",
+      "ColorIndex": 0
+    },
+    "a02e6051-ce5b-4c9b-9bda-dd6b46df082b": {
+      "ProjectGuid": "a02e6051-ce5b-4c9b-9bda-dd6b46df082b",
+      "DisplayName": "BusinessLogicLayer",
+      "ColorIndex": 1
+    },
+    "99709a4b-577b-4c0c-b9ea-cc350a686997": {
+      "ProjectGuid": "99709a4b-577b-4c0c-b9ea-cc350a686997",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
